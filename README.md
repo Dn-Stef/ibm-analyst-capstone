@@ -14,7 +14,7 @@ This project presents a comprehensive analysis of developer trends based on the 
 
 The report also includes job market analysis using external job-postings data and interactive dashboards to enrich understanding. 
 
-The final output consists of a presentation (DataAnalystPresentation.pdf) summarizing all major insights using visualizations and narrative, along with the code used for the project (project code.ipynb) that details the process, tools used, and methodology.
+The final output consists of a presentation (DataAnalystPresentation.pdf) summarizing all major insights using visualizations and narrative—every slide created in accordance with course instructions—along with the code used for the project (project code.ipynb) that details the process, tools used, and methodology.
 
 ## 🗃️ Dataset Background
 This project is based on the 2024 Stack Overflow Developer Survey, a large-scale annual dataset crowdsourced from developers around the world. The survey reflects:
