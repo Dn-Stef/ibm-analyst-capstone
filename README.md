@@ -27,7 +27,7 @@ This project is based on the 2024 Stack Overflow Developer Survey, a large-scale
 
 - Demographic trends in the developer community
 
-In addition to the main survey data, two supplemental datasets provided during the course were incorporated—one obtained via API and the other through web scraping—to support a broader analysis of job market trends and technology demand. Direct links to the datasets are included in the presentation.
+In addition to the main survey data, two supplemental datasets provided during the course were incorporated—one obtained via REST API and the other through web scraping—to support a broader analysis of job market trends and technology demand. Direct links to the datasets are included in the presentation.
 
 ## 🧰 Tools
 All analysis and visualizations were developed using Python in Jupyter Notebooks. The following key packages were utilized:
@@ -53,7 +53,7 @@ The project began with data cleaning, including handling duplicates and missing 
 
 After preparing the dataset, visualizations were created with Matplotlib and Seaborn to explore initial trends. 
 
-An API was then used to retrieve additional data via requests and json, which was cleaned, sorted, and visualized. 
+A REST API was then used to retrieve additional data via requests and json, which was cleaned, sorted, and visualized. 
 
 Finally, data was gathered through web scraping with BeautifulSoup, refined through custom cleaning and formatting steps, and further visualized to support the overall analysis.
 
